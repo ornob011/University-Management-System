@@ -1,0 +1,19 @@
+1. Name: DR. MD. HASAN IMAM
+Faculty: Computer Engineering
+ID: 0412-350-2
+
+2. Name: FARHADUR ARIFIN
+Faculty: Computer Engineering
+ID: 0509-440-2
+
+3. Name: MD. ALI NOOR
+Faculty: Computer Engineering
+ID: 0609-498-2
+
+4. Name: NADIA NOWSHIN
+Faculty: Computer Engineering
+ID: 0809-752-2
+
+5. Name: MD. SANIAT RAHMAN ZISHAN
+Faculty: Computer Engineering
+ID: 0909-953-2
